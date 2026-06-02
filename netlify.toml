@@ -1,0 +1,6 @@
+[build]
+  command = "bun run build:static"
+  publish = "dist-drop"
+
+[build.environment]
+  NODE_VERSION = "22"
