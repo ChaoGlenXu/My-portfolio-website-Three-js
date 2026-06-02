@@ -7,6 +7,7 @@ Personal portfolio built with React, TanStack Router, Vite, Tailwind CSS, and Re
 <img width="1015" height="873" alt="Screenshot 2026-06-02 at 11 11 37 AM" src="https://github.com/user-attachments/assets/97e864d6-254a-4bed-ad17-28c9dbf1bd46" />
 <img width="1048" height="934" alt="Screenshot 2026-06-02 at 11 11 58 AM" src="https://github.com/user-attachments/assets/acb9497a-6c9b-4909-9d45-d1acdb1886fe" />
 
+<img width="1114" height="935" alt="Screenshot 2026-06-02 at 11 13 27 AM" src="https://github.com/user-attachments/assets/cefec367-4a52-43e8-a937-29bf0e1452a9" />
 
 
 
