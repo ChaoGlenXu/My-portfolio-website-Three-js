@@ -1,3 +1,8 @@
+import ameljobsLogo from "../assets/companies/ameljobs-careerai.jpeg";
+import aviatLogo from "../assets/companies/aviat-networks.jpeg";
+import redlineLogo from "../assets/companies/redline-communications.jpeg";
+import strataedgeLogo from "../assets/companies/strataedge-ai.jpeg";
+import symphonyLogo from "../assets/companies/symphony-rentius.jpeg";
 import {
     car,
     contact,
@@ -48,7 +53,7 @@ export const experiences = [
     {
         title: "Full Stack Software Engineer",
         company_name: "StrataEdge AI",
-        icon: typescript,
+        icon: strataedgeLogo,
         iconBg: "#a2d2ff",
         date: "Jan 2026 - Present",
         points: [
@@ -58,7 +63,7 @@ export const experiences = [
     {
         title: "AI Founding Engineer",
         company_name: "AmelJobs (CareerAI)",
-        icon: react,
+        icon: ameljobsLogo,
         iconBg: "#b7e4c7",
         date: "Nov 2023 - Dec 2025",
         points: [
@@ -69,7 +74,7 @@ export const experiences = [
     {
         title: "Full Stack Developer (Contract)",
         company_name: "Symphony — Rentius",
-        icon: express,
+        icon: symphonyLogo,
         iconBg: "#accbe1",
         date: "Sep 2023 - Oct 2023",
         points: [
@@ -79,7 +84,7 @@ export const experiences = [
     {
         title: "Embedded Software Engineer Intern",
         company_name: "Aviat Networks",
-        icon: car,
+        icon: aviatLogo,
         iconBg: "#fbc3bc",
         date: "Jul 2022 - Sep 2022",
         points: [
@@ -89,7 +94,7 @@ export const experiences = [
     {
         title: "Embedded Software Engineer Intern",
         company_name: "Redline Communications",
-        icon: git,
+        icon: redlineLogo,
         iconBg: "#a2d2ff",
         date: "Sep 2021 - Jun 2022",
         points: [
